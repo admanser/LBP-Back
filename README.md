@@ -1,5 +1,4 @@
 # LBP-Backend
-***
 
 ## Criterios de Evaluación
 
